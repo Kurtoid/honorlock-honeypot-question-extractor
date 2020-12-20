@@ -1,0 +1,1 @@
+`bash get_site.bash studyeffect.com https://studyeffect.com/`
